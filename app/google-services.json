@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "659179163877",
+    "firebase_url": "https://codingbydumbbell-product.firebaseio.com",
+    "project_id": "codingbydumbbell-product",
+    "storage_bucket": "codingbydumbbell-product.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659179163877:android:98dfd3f69a911d7b",
+        "android_client_info": {
+          "package_name": "com.codingbydumbbell.myengwords"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659179163877-sfl6jh0rq4re02p3nr4ngna187q6a7mm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingbydumbbell.myengwords",
+            "certificate_hash": "0d9189f30d9f7a93dfecb7e2e30c411c1367048d"
+          }
+        },
+        {
+          "client_id": "659179163877-93dle8l6f3frueddg24utem8egaubman.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT44xE8nJAxg2lGasBHWoioNsw0NW838Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659179163877-93dle8l6f3frueddg24utem8egaubman.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

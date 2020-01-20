@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="question1">
+        <item>Giraffe</item>
+        <item>長頸鹿</item>
+        <item>火車</item>
+        <item>高速公路</item>
+        <item>電腦</item>
+    </string-array>
+
+    <string-array name="question2">
+        <item>Shark</item>
+        <item>鯊魚</item>
+        <item>龍蝦</item>
+        <item>白板</item>
+        <item>美人魚</item>
+    </string-array>
+
+    <string-array name="question3">
+        <item>Elephant</item>
+        <item>大象</item>
+        <item>太陽</item>
+        <item>月亮</item>
+        <item>手機</item>
+    </string-array>
+
+    <string-array name="question4">
+        <item>Dolphin</item>
+        <item>海豚</item>
+        <item>航空母艦</item>
+        <item>直升機</item>
+        <item>海狗</item>
+    </string-array>
+
+    <string-array name="question5">
+        <item>Penguin</item>
+        <item>企鵝</item>
+        <item>孔雀</item>
+        <item>鑽石</item>
+        <item>母雞</item>
+    </string-array>
+
+    <string-array name="question6">
+        <item>Tiger</item>
+        <item>老虎</item>
+        <item>老鷹</item>
+        <item>司機</item>
+        <item>老師</item>
+    </string-array>
+
+    <string-array name="question7">
+        <item>Mung bean</item>
+        <item>綠豆</item>
+        <item>青春痘</item>
+        <item>紅豆</item>
+        <item>四季豆</item>
+    </string-array>
+
+    <string-array name="question8">
+        <item>Corn</item>
+        <item>玉米</item>
+        <item>竹筍</item>
+        <item>白蘿蔔</item>
+        <item>烏雲</item>
+    </string-array>
+
+    <string-array name="question9">
+        <item>Train</item>
+        <item>火車</item>
+        <item>旅行</item>
+        <item>村莊</item>
+        <item>訓練</item>
+    </string-array>
+
+    <string-array name="question10">
+        <item>Wine</item>
+        <item>葡萄酒</item>
+        <item>可口可樂</item>
+        <item>雞尾酒</item>
+        <item>柳橙汁</item>
+    </string-array>
+
+    <string-array name="question11">
+        <item>Restaurant</item>
+        <item>餐廳</item>
+        <item>客廳</item>
+        <item>房間</item>
+        <item>廁所</item>
+    </string-array>
+
+    <string-array name="question12">
+        <item>Baseball</item>
+        <item>棒球</item>
+        <item>溜溜球</item>
+        <item>籃球</item>
+        <item>躲避球</item>
+    </string-array>
+
+    <string-array name="question13">
+        <item>Language</item>
+        <item>語言</item>
+        <item>跳繩</item>
+        <item>洗澡</item>
+        <item>跳舞</item>
+    </string-array>
+
+    <string-array name="question14">
+        <item>Star</item>
+        <item>星星</item>
+        <item>太陽</item>
+        <item>地球</item>
+        <item>秘密</item>
+    </string-array>
+
+    <string-array name="question15">
+        <item>Tank</item>
+        <item>坦克車</item>
+        <item>腳踏車</item>
+        <item>貓</item>
+        <item>捷運</item>
+    </string-array>
+
+    <string-array name="question16">
+        <item>Refrigerator</item>
+        <item>冰箱</item>
+        <item>烤箱</item>
+        <item>比基尼</item>
+        <item>沙灘</item>
+    </string-array>
+
+    <string-array name="question17">
+        <item>Pork</item>
+        <item>豬肉</item>
+        <item>竹筍</item>
+        <item>鑽石</item>
+        <item>牛肉</item>
+    </string-array>
+
+    <string-array name="question18">
+        <item>Butterfly</item>
+        <item>蝴蝶</item>
+        <item>青蛙</item>
+        <item>蝸牛</item>
+        <item>蜜蜂</item>
+    </string-array>
+
+    <string-array name="question19">
+        <item>Table Tennis</item>
+        <item>桌球</item>
+        <item>網球</item>
+        <item>橄欖球</item>
+        <item>高爾夫球</item>
+    </string-array>
+
+    <string-array name="question20">
+        <item>Cricket</item>
+        <item>蟋蟀</item>
+        <item>蛇</item>
+        <item>蟑螂</item>
+        <item>螳螂</item>
+    </string-array>
+</resources>
